@@ -35,6 +35,7 @@ This repo serves as a library for contributed open source projects that can be u
 2. Check the Issues📌 to find interesting contribution requests
 3. Make your contribution (add a project, fix bugs🐛, add feature✨, documentation📝 ...). 
 4. Make a Pull Request to this very original repo and wait for maintainers to merge it!
+5. make the fork now 
 
 The following links are helpful:
 - [Participating in Hacktoberfest](https://hacktoberfest.digitalocean.com/resources/participation)
